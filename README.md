@@ -1,4 +1,4 @@
-### YOLOv8 Model Trainer
+# YOLOv8 Model Trainer
 
 ## 🧠 Requirements
 
@@ -20,12 +20,12 @@ source venv/bin/activate     # On Linux/Mac
 venv\Scripts\activate        # On Windows
 ```
 
-### 3 Install rewuirements
+### 3 Install requirements
 
 ```bash
 pip install -r Requirements.txt
 ```
 
-# Change dataset path and model name in modelTrainer.py
+### Change dataset path and model name in modelTrainer.py
 
-# Change trained model path in modelExporter.py
+### Change trained model path in modelExporter.py
